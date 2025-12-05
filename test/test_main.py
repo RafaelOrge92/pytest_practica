@@ -5,3 +5,6 @@ def test_elevar():
     
 def test_to_upper():
     assert to_upper("rafael") == "RAFAEL"
+    
+def test_to_upper():
+    assert to_upper("rafael") == "rafael"
